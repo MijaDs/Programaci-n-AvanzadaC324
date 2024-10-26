@@ -2,7 +2,7 @@
 {
     public class UsuarioModel
     {
-        public int id { get; set; }
+        public int id_usuarios { get; set; }
 
         public string nombre { get; set; }
 
