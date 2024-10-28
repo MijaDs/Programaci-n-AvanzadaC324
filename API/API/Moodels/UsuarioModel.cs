@@ -20,9 +20,5 @@
 
         public DateTime fechanacimiento { get; set; }
 
-
-
-
-
     }
 }
